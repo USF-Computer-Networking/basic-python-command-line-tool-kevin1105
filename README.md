@@ -1,4 +1,4 @@
-#kevin1105
-#Kevin Kim \n
+#Kevin Kim 
+
 BASIC PYTHON COMMAND LINE TOOL
 
